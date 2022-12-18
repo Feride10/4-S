@@ -1,0 +1,15 @@
+C:\Users\Feride\work\4 seminar\bin\Debug\net6.0\4 seminar.exe
+C:\Users\Feride\work\4 seminar\bin\Debug\net6.0\4 seminar.deps.json
+C:\Users\Feride\work\4 seminar\bin\Debug\net6.0\4 seminar.runtimeconfig.json
+C:\Users\Feride\work\4 seminar\bin\Debug\net6.0\4 seminar.dll
+C:\Users\Feride\work\4 seminar\bin\Debug\net6.0\4 seminar.pdb
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.csproj.AssemblyReference.cache
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.AssemblyInfoInputs.cache
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.AssemblyInfo.cs
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.csproj.CoreCompileInputs.cache
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.dll
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\refint\4 seminar.dll
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.pdb
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\4 seminar.genruntimeconfig.cache
+C:\Users\Feride\work\4 seminar\obj\Debug\net6.0\ref\4 seminar.dll
